@@ -1,0 +1,9 @@
+.navbar ul {
+    list-style-type: none;
+    justify-content: center;
+  }
+  
+.navbar li {
+    float: left;
+  }
+
