@@ -9,7 +9,19 @@ function Proj(){
         {
             title: 'Puppet to Ansible compiler',
             img: 'null',
-            description: 'Coming Soon',
+            description: 'Almost Done',
+            link: 'null'
+        },
+        {
+            title: 'Budget app',
+            img: 'null',
+            description: 'In Progress',
+            link: 'null'
+        },
+        {
+            title: 'Portfolio website',
+            img: 'null',
+            description: 'In Progress',
             link: 'null'
         },
         {
