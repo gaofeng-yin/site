@@ -14,7 +14,7 @@ function ProjectPage(props){
             {/*<img className="site-image" src={workmiddle} alt="img" />*/}
             <Proj />
         </Content>
-        </div>
+        </div> 
     );
 }
 

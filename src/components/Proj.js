@@ -37,7 +37,7 @@ function Proj(){
             <p><br></br>{projetos.description}</p>
             <a href={projetos.link} target="_blank" rel="noopener noreferrer">
             <img className="link" src={giticon} alt="img" /></a>
-        </div>
+        </div> 
         )}
     </div>
     );
