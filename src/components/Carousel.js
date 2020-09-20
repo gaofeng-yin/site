@@ -13,18 +13,18 @@ class Carousel extends React.Component{
         items: [
             {
                 id: 0,
-                title: 'Linkdin',
-                subTitle: 'My Linkdin profile',
-                imgSrc: me,
-                link: 'https://www.linkedin.com/in/gaofengyin/.com',
-                selected: false
-            },
-            {
-                id: 1,
                 title: 'Stack overflow',
                 subTitle: 'My stack',
                 imgSrc: stack,
                 link: 'https://stackoverflow.com/users/14255901/gaofeng',
+                selected: false
+            },
+            {
+                id: 1,
+                title: 'Linkdin',
+                subTitle: 'My Linkdin profile',
+                imgSrc: me,
+                link: 'https://www.linkedin.com/in/gaofengyin/.com',
                 selected: false
             },
             {

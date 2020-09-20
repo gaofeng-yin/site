@@ -2,25 +2,28 @@ import React from 'react';
 import giticon from '../assets/images/giticon.svg';
 import parser from '../assets/images/parser.png';
 import ros from '../assets/images/ros.png';
+import budgetapp from '../assets/images/budgetapp.png';
+import website from '../assets/images/website.png';
+import eli from '../assets/images/eli.png';
 
 function Proj(){
     
     const projetos = [
         {
             title: 'Puppet to Ansible compiler',
-            img: 'null',
+            img: eli,
             description: 'Almost Done',
             link: 'null'
         },
         {
             title: 'Budget app',
-            img: 'null',
+            img: budgetapp,
             description: 'In Progress',
             link: 'null'
         },
         {
             title: 'Portfolio website',
-            img: 'null',
+            img: website,
             description: 'In Progress',
             link: 'null'
         },
