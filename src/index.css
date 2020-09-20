@@ -75,6 +75,12 @@ code {
   padding: 3px;
 }
 
+.link-proj {
+  width: 35px;
+  height: 75px;
+  padding: 3px;
+}
+
 .site-image {
   width: 100%;
   height: auto;

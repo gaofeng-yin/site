@@ -12,25 +12,25 @@ function Proj(){
         {
             title: 'Puppet to Ansible compiler',
             img: eli,
-            description: 'Almost Done',
-            link: 'null'
+            description: 'Compiler which translate Puppet module to Ansible role. Built using Eli: Translator Construction Made Easy. Used to facilitate migration from Puppet to Ansible.',
+            link: 'https://github.com/gaofeng-yin/Puppet2Ansible'
         },
         {
             title: 'Budget app',
             img: budgetapp,
-            description: 'In Progress',
-            link: 'null'
+            description: 'Budget calculator built using Angular. A small boost to getting started with a basic Angular application.',
+            link: 'https://github.com/gaofeng-yin/budget_app'
         },
         {
             title: 'Portfolio website',
             img: website,
-            description: 'In Progress',
-            link: 'null'
+            description: 'Portfolio website, built from scratch using React.',
+            link: 'https://github.com/gaofeng-yin/site'
         },
         {
             title: 'Json to html table',
             img: parser,
-            description: 'Compiler built using YACC&LEX which translate json file, containing Google calendar info, into HTML table cotent. This may help better visualization of the data.',
+            description: 'Compiler built using YACC&LEX which translate json file, containing Google calendar info, into HTML table cotent. This may help to better visualization of the data.',
             link: 'https://github.com/gaofeng-yin/language_processor'
 
         },
@@ -51,7 +51,7 @@ function Proj(){
             <img className="site-image" src={projetos.img} alt="img" />
             <p><br></br>{projetos.description}</p>
             <a href={projetos.link} target="_blank" rel="noopener noreferrer">
-            <img className="link" src={giticon} alt="img" /></a>
+            <img className="link-proj" src={giticon} alt="img" /></a>
         </div> 
         )}
     </div>
