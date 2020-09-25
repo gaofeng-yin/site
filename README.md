@@ -1,4 +1,4 @@
-### Portfolio website
+## Portfolio website
 
 Website built using React framework.
 
