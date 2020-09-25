@@ -4,7 +4,7 @@ Website built using React framework.
 
 Thanks a lot to Garrett Love for amazing tutorial!
 
-Make sure to check his youtube channel: https://www.youtube.com/watch?v=41-jn5tdg50&list=PLnpdZyv-BjINbUjmTUsyziHz_4fa9hM5G
+Make sure to check his youtube channel: https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw
 
 ## Available Scripts
 
