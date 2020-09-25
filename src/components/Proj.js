@@ -5,6 +5,7 @@ import ros from '../assets/images/ros.png';
 import budgetapp from '../assets/images/budgetapp.png';
 import website from '../assets/images/website.png';
 import eli from '../assets/images/eli.png';
+import weather from '../assets/images/weather.png'
 
 function Proj(){
     
@@ -18,8 +19,14 @@ function Proj(){
         {
             title: 'Budget app',
             img: budgetapp,
-            description: 'Budget calculator built using Angular. A small boost to getting started with a basic Angular application.',
+            description: 'Budget calculator built using Angular. A small boost to getting started with a basic Angular application. This app make a list of incomes and expenses by adding positive or negative values and then calculate the difference between income and expense. You can also edit de values and discription, consonant of the change, the list get update automatically.',
             link: 'https://github.com/gaofeng-yin/budget_app'
+        },
+        {
+            title: 'Weather app',
+            img: weather,
+            description: 'Weather app created using vue.js framework. In this app you can find weather and temperature of any country or city. App return data from weather api. ',
+            link: 'https://github.com/gaofeng-yin/weather-app'
         },
         {
             title: 'Portfolio website',
@@ -47,7 +54,7 @@ function Proj(){
         <div>
         {projetos.map(projetos =>
         <div className="card">
-            <h3>{projetos.title}</h3>
+            <h1>{projetos.title}</h1>
             <img className="site-image" src={projetos.img} alt="img" />
             <p><br></br>{projetos.description}</p>
             <a href={projetos.link} target="_blank" rel="noopener noreferrer">
