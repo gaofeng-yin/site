@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Thanks a lot to Garrett Love for amazing tutorial!
+
+Make sure to check his youtube channel:https://www.youtube.com/watch?v=41-jn5tdg50&list=PLnpdZyv-BjINbUjmTUsyziHz_4fa9hM5G
 
 ## Available Scripts
 
