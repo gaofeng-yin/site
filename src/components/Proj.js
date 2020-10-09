@@ -15,35 +15,35 @@ function Proj(){
             img: eli,
             description: 'Compiler which translate Puppet module to Ansible role. Built using Eli: Translator Construction Made Easy. Used to facilitate migration from Puppet to Ansible.',
             link: 'https://github.com/gaofeng-yin/Puppet2Ansible',
-            tags: ["Ansible ", "Puppet"]
+            tags: ["Ansible ", "Puppet ", "Eli"]
         },
         {
             title: 'Budget app',
             img: budgetapp,
             description: 'Budget calculator built using Angular. A small boost to getting started with a basic Angular application. This app make a list of incomes and expenses by adding positive or negative values and then calculate the difference between income and expense. You can also edit de values and discription, consonant of the change, the list get update automatically.',
             link: 'https://github.com/gaofeng-yin/budget_app',
-            tags: []
+            tags: ["Angular ", "typescript"]
         },
         {
             title: 'Weather app',
             img: weather,
             description: 'Weather app created using vue.js framework. In this app you can find weather and temperature of any country or city. App return data from weather api. ',
             link: 'https://github.com/gaofeng-yin/weather-app',
-            tags: []
+            tags: ["Vue.js ", "javascript"]
         },
         {
             title: 'Portfolio website',
             img: website,
             description: 'Portfolio website, built from scratch using React.',
             link: 'https://github.com/gaofeng-yin/site',
-            tags: []
+            tags: ["react ", "javascript"]
         },
         {
             title: 'Json to html table',
             img: parser,
             description: 'Compiler built using YACC&LEX which translate json file, containing Google calendar info, into HTML table cotent. This may help to better visualization of the data.',
             link: 'https://github.com/gaofeng-yin/language_processor',
-            tags: []
+            tags: ["Yacc ", "Lex ", "Json"]
 
         },
         {
