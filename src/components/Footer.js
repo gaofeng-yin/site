@@ -4,12 +4,15 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 function Footer(){
 
+    let data = new Date();
+    let year = data.getFullYear();
+
     return(
         <footer className="footer">
             <Container className="border-top justify-content-between" fluid={true}>
                   <Row>
                       <Col>
-                   <span className="footer-span">Copyright &copy; Gaofeng</span></Col>
+                   <span className="footer-span">Copyright &copy; 2020-{year} Gaofeng </span></Col>
                 </Row>
             </Container>
         </footer>
