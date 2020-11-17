@@ -7,7 +7,8 @@ import 'bootstrap/dist/css/bootstrap.css';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    {/* page is down temporaly <App />*/}
+    <h1 style={{textAlign: "center"}}>Yin maintenance, due to covid-20, Gaofeng is unavailable at moment.</h1>
   </React.StrictMode>,
   document.getElementById('root')
 );

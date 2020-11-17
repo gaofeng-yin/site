@@ -7,9 +7,9 @@ function HomePage(props){
 
     return(
         <div className="page-content">
-            <Hero title={props.title}  />
+            <Hero title={props.title}  /> 
             <Carousel />
-            <Footer />
+            <Footer /> 
         </div>
     );
 
